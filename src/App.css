@@ -79,6 +79,7 @@ h2 {
  @media(max-width: 620px){
   .card {
     width: 90%;
+    padding: 3rem 1.5rem 4.5rem 1.5rem;
   }
 
   @media(max-width: 375px){
